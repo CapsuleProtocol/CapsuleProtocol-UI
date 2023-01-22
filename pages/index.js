@@ -26,11 +26,15 @@ export default function Home() {
         <img src = "dosome.png"></img>
     <br></br>
       
-        <h2> Capsule Protocol Landing Soon.</h2>
+        <h2>Soon you will be able to use your bags.</h2>
+        <h2>Capsule Protocol Landing Soon.</h2>
         <br></br>
    <br></br>
 
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLeuTbyC_21mVr0DhrBTq07u9c0AshMoOni_JbB8YQ688cvw/viewform?embedded=true" width="640" height="1106" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+   <a  class="button-85" href= 'https://docs.google.com/forms/d/153SvrBNBJunK6Yq-j2Py2GXwMFNEuRSOb0JIMi2ksts/edit'> Ealy Access Waitlist </a>
+
+{/* 
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLeuTbyC_21mVr0DhrBTq07u9c0AshMoOni_JbB8YQ688cvw/viewform?embedded=true" width="640" height="1106" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> */}
       </main>
     </>
   )
