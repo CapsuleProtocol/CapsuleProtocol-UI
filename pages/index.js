@@ -24,9 +24,11 @@ export default function Home() {
 
 
         <img src = "capsule.gif"></img>
+    <br></br>
       
         <h2> Capsule Protocol Landing Soon.</h2>
-       <b> Sign up for early access below </b>
+        <br></br>
+   <br></br>
 
         <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLeuTbyC_21mVr0DhrBTq07u9c0AshMoOni_JbB8YQ688cvw/viewform?embedded=true" width="640" height="1106" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
       </main>
