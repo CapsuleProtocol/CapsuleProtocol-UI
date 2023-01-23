@@ -26,7 +26,7 @@ export default function Home() {
         <img src = "dosome.png"></img>
     <br></br>
       
-        <h2>Soon you will be able to use your bags.</h2>
+        <h2>You will be able to use your bags.</h2>
         <h2>Capsule Protocol Landing Soon.</h2>
         <br></br>
    <br></br>
