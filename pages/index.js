@@ -27,6 +27,7 @@ export default function Home() {
     <br></br>
       
         <h2>You will be able to use equity in your bags.</h2>
+        <h2>Private Beta-Testing Is Underway...</h2>
         <h2>Capsule Protocol Landing Soon.</h2>
         <br></br>
    <br></br>
